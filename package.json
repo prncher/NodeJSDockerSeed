@@ -14,7 +14,7 @@
   "author": "Prince Cheruvathur",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^5.1.0",
     "express-handlebars": "^3.0.0"
   }
 }
